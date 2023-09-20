@@ -1,5 +1,5 @@
 # AdaptPoint: Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions [ICCV 2023]
-Official implementation of [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions]().
+Official implementation of [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions](https://arxiv.org/abs/2309.10431).
 
 The paper has been accepted by **ICCV 2023**.
 
