@@ -90,7 +90,7 @@ We would like to thank Lingdong Kong and Jiawei Ren for their helpful discussion
 
 
 ## Citation
-```bash
+```
 @inproceedings{wang2023sample,
   title={Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions},
   author={Wang, Jie and Ding, Lihe and Xu, Tingfa and Dong, Shaocong and Xu, Xinli and Bai, Long and Li, Jianan},
