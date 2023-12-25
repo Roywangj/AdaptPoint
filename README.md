@@ -91,7 +91,13 @@ We would like to thank Lingdong Kong and Jiawei Ren for their helpful discussion
 
 ## Citation
 ```bash
-
+@inproceedings{wang2023sample,
+  title={Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions},
+  author={Wang, Jie and Ding, Lihe and Xu, Tingfa and Dong, Shaocong and Xu, Xinli and Bai, Long and Li, Jianan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={14330--14339},
+  year={2023}
+}
 ```
 
 ## Contact
